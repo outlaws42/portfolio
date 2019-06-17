@@ -1,0 +1,31 @@
+
+/* Navbar */
+.myimage {
+  height: 60px;
+  width: 60px;
+  border-radius: 50%;
+}
+
+
+/* Header */
+header.introhead {
+  padding-top: calc(1/3 * 100%); /* aspect ratio 3:2 */
+  background: linear-gradient(to bottom, rgba(0,0,0,.7), rgba(0,0,0,.95)), url('../images/Computer.jpg'); 
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+
+
+}
+
+.text-white {
+  opacity: 0.5;
+}
+
+
+/* About */
+
+section#about {
+  background-color: orange;
+}
